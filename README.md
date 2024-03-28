@@ -13,4 +13,5 @@
 7. Used the XGBoost regressor to predict HSE bandgap values including and excluding HSE insulator and plot relevant graphs for the same.
 8. Used the XGBoost regressor to predict energy above hull values and plot relevant graphs for the same.
 9. Used SVM to classify PBE and HSE bandgap is direct or not and plotted the feature importances for the same.
+10. Load a new data set and import the model to predict necessary features.
  
